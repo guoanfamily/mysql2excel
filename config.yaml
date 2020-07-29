@@ -1,0 +1,3 @@
+connectstr : "user:password@tcp(localhost:3306)"
+file : "dbdoc.xlsx"
+dbname : "dbname"
